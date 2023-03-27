@@ -26,3 +26,7 @@ Exercise:
 Assignments:
 -------------
 *Write a program in which take a,b as two variables a=10, b=5 and add both the variables and modules with 2 and check the output is > 10 and output is equal to 1
+
+26th March:(Day 4 and Dy 5)
+------------
+*Identity, relational and membership operators
