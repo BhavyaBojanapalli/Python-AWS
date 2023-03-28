@@ -34,3 +34,11 @@ Assignments:
 27th march: (Day 6)
 --------
 *Bitwise and precedence operator.
+
+Exercise:
+--------
+1.Write a program to print the exp of x and y where x=5, y=2 and then check if the output z (z= x**y) is > 10
+
+28th March : (Day 7):
+-------------
+* String Data types
