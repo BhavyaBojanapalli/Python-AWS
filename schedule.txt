@@ -42,3 +42,13 @@ Exercise:
 28th March : (Day 7):
 -------------
 * String Data types
+
+Exercises:
+----------
+* Write a program to print first 3 char and last 3 charcaters of s stringSample String : 'pythonclass'
+Expected Result : 'pytass'
+
+*Write a program to change the input string as output string (need to replqace that particular character)
+
+I/p: python
+o/p: p&thon
