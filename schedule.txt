@@ -52,3 +52,11 @@ Expected Result : 'pytass'
 
 I/p: python
 o/p: p&thon
+
+29th March:(day 8)
+---------------
+* List and its methods
+
+Exercise:
+---------
+* Write a program to take list1=['a','b','d','c'] and perform all the predefined operations and list2=['p','r','q'] use it when required.
