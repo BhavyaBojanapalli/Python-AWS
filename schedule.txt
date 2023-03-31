@@ -60,3 +60,14 @@ o/p: p&thon
 Exercise:
 ---------
 * Write a program to take list1=['a','b','d','c'] and perform all the predefined operations and list2=['p','r','q'] use it when required.
+
+30th March (day 9):
+--------------
+*List with foor and while loop
+
+Exercise:
+-------
+*Write a program to add all the elements in the list and print the output 
+list1=[1,2,5,6,7,3]
+
+*Write a program to print the n*n in the list like for example the input is list1=[1,2,3,4,5] and output should be list2=[1,4,9,25,36]
