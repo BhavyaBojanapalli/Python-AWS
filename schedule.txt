@@ -71,3 +71,14 @@ Exercise:
 list1=[1,2,5,6,7,3]
 
 *Write a program to print the n*n in the list like for example the input is list1=[1,2,3,4,5] and output should be list2=[1,4,9,25,36]
+
+3rd April(day 10):
+--------------
+
+*Tuple and with loops
+
+Exercise:
+---------
+*Write a program to take input as t1=(1,2,-3,-5,6) and print only the positive numbers as output
+*Write a program to print the sum of the elements in tuples t2=(7,5,4,9)
+
