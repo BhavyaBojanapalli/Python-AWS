@@ -82,3 +82,11 @@ Exercise:
 *Write a program to take input as t1=(1,2,-3,-5,6) and print only the positive numbers as output
 *Write a program to print the sum of the elements in tuples t2=(7,5,4,9)
 
+5th April:(Day 11)
+--------
+*Dicts and predefined methods of dict
+
+Exercises:
+----------
+*Take a new dict dict1={'a':1,'b':2,'c':3} and perform all the operations predefined.
+
