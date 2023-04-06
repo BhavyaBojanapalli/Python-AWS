@@ -90,3 +90,20 @@ Exercises:
 ----------
 *Take a new dict dict1={'a':1,'b':2,'c':3} and perform all the operations predefined.
 
+6th April(Day 12):
+---------------
+*Dicts Exercises and sets explanation
+
+Exercises:
+---------
+Write a program to take fruits as input and print the corresponding output
+I/p:fruits = {'banana':3,'apple':2, 'mango':1, 'kiwi':5}
+o/p: fruits_list = [
+        ['banana', 'banana', 'banana'],
+        ['apple', 'apple'],
+        ['mango'],
+        ['kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi']]
+* Write a program to convert keys to values and viceversa 
+I/p:{1:'a',2:'b',3:'c'}
+
+Op: {‘a’:1,’b’ :2,’c’: 3}
