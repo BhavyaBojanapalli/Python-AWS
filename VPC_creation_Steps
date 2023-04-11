@@ -1,0 +1,15 @@
+Steps:
+———
+1.Create a VPC and name it as XXX(10.50.0.0/16)
+2.Enable DNS Hostnames
+3.Create Subnets
+*webservers (us-east-1a) - 10.50.1.0/24
+*Appservers(us-east-1b) - 10.50.2.0/24
+*DB servers(us-east-1c)- 10.50.3.0/24
+
+
+Enable Auto IP address
+
+4.IGW create and then attach to VPC
+5.Route tables configure —>  Traffic send outside VPC
+6.Deploy 3 ec2 VM’s in diff az and subnets
