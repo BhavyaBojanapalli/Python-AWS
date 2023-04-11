@@ -107,3 +107,16 @@ o/p: fruits_list = [
 I/p:{1:'a',2:'b',3:'c'}
 
 Op: {‘a’:1,’b’ :2,’c’: 3}
+
+7th April:(day 13)
+----------------
+*Left over dict programs and AWS introduction
+
+11th April(day 14):
+------------------
+*AWS VPC, aws cli and subnets
+
+Exercise:
+--------
+*Create a EC2 instance using AWS CLI
+*Create a dummy VPC with subnets
