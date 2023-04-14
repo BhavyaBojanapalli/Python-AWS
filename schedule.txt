@@ -120,3 +120,35 @@ Exercise:
 --------
 *Create a EC2 instance using AWS CLI
 *Create a dummy VPC with subnets
+
+14th April:(day 15):
+----------------
+*Dicussion regarding the KMS keys
+
+15th April(day 16):
+----------------
+*IAM users and s3 bucket policies
+
+16th April(Day 17 and day 18):
+--------------------
+*EKS
+
+17th April(day 19):
+------------
+*Lambda
+
+18th April(Day 20):
+----------
+*ELK stack
+
+19th April(Day 21):
+---------
+*Boto3
+
+20th April(Day 22):
+-------
+*Terraform with AWS services
+
+21st April(Day 23):
+---------
+*Ansible with AWS services
